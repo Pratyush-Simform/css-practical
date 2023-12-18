@@ -1,0 +1,386 @@
+.image-icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.dont-have-an,
+.hello {
+  position: absolute;
+  top: 42.48%;
+  left: 45.18%;
+  font-size: var(--left-aligned-lighth1-size);
+  line-height: 36px;
+  font-family: var(--left-aligned-greydisplay);
+  color: var(--color-4-100);
+  text-align: center;
+}
+.dont-have-an {
+  top: 46.97%;
+  left: 40.12%;
+  font-size: var(--left-aligned-greydisplay-size);
+  line-height: 20px;
+  font-weight: 500;
+}
+.background-color-icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.title {
+  position: absolute;
+  width: 53.18%;
+  top: calc(50% - 10px);
+  left: 23.59%;
+  font-size: var(--left-aligned-greydisplay-size);
+  line-height: 20px;
+  display: inline-block;
+  font-family: var(--left-aligned-greydisplay);
+  color: var(--color-4-100);
+  text-align: center;
+}
+.buttonfull-widith {
+  position: absolute;
+  height: 5.66%;
+  width: 26.51%;
+  top: 51.86%;
+  right: 36.75%;
+  bottom: 42.48%;
+  left: 36.75%;
+  overflow: hidden;
+}
+.component-1 {
+  width: 100%;
+  right: 0;
+  left: 0;
+}
+.component-1,
+.left,
+.modal-background {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+}
+.left {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 57.64%;
+  right: 42.36%;
+  left: 0;
+}
+.modal-background {
+  width: calc(100% - 15px);
+  right: 0;
+  left: 15px;
+  border-radius: var(--br-13xl) 0 0 var(--br-13xl);
+  background-color: var(--color-4-100);
+}
+.indicator,
+.left-indicator {
+  position: absolute;
+  width: 5px;
+  height: 128px;
+}
+.indicator {
+  bottom: 0;
+  left: calc(50% - 2.5px);
+  border-radius: var(--br-81xl);
+  background-color: var(--color-4-100);
+  opacity: 0.4;
+  mix-blend-mode: normal;
+}
+.left-indicator {
+  top: calc(50% - 64px);
+  left: 0;
+}
+.background-color-icon1,
+.modaldesktop {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  overflow: hidden;
+}
+.background-color-icon1 {
+  border-radius: var(--br-xs);
+  max-width: 100%;
+  max-height: 100%;
+}
+.title1 {
+  position: absolute;
+  top: 32.76%;
+  left: 118px;
+  line-height: 20px;
+}
+.icongoogle {
+  height: 31.03%;
+  top: 34.48%;
+  bottom: 34.48%;
+  left: calc(50% - 85px);
+  max-height: 100%;
+  width: 18px;
+}
+.google,
+.icongoogle,
+.title2 {
+  position: absolute;
+}
+.google {
+  height: 21.97%;
+  width: 100%;
+  top: 78.03%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  color: var(--color-3-100);
+}
+.title2 {
+  top: calc(50% - 10px);
+  left: calc(50% - 48px);
+  line-height: 20px;
+}
+.iconapple {
+  top: calc(50% - 9px);
+  left: calc(50% - 76px);
+  width: 18px;
+  height: 18px;
+}
+.apple,
+.iconapple,
+.title3 {
+  position: absolute;
+}
+.apple {
+  height: 21.97%;
+  width: 100%;
+  top: 48.48%;
+  right: 0;
+  bottom: 29.55%;
+  left: 0;
+  overflow: hidden;
+}
+.title3 {
+  top: 0;
+  left: 27.6px;
+  line-height: 20px;
+}
+.iconfacebook {
+  position: absolute;
+  height: 90%;
+  top: 5%;
+  bottom: 5%;
+  left: calc(50% - 89.3px);
+  max-height: 100%;
+  width: 18px;
+}
+.content {
+  position: absolute;
+  height: 34.48%;
+  width: calc(100% - 171.4px);
+  top: 32.76%;
+  right: 84.4px;
+  bottom: 32.76%;
+  left: 87px;
+}
+.facebook {
+  position: absolute;
+  height: 21.97%;
+  width: 100%;
+  top: 18.94%;
+  right: 0;
+  bottom: 59.09%;
+  left: 0;
+}
+.or-connect-with {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 58px);
+  font-size: var(--left-aligned-greylabel-size);
+  line-height: 20px;
+  color: var(--color-5-100);
+  text-align: left;
+}
+.socials {
+  position: absolute;
+  height: 25.78%;
+  width: 53.44%;
+  top: 64.06%;
+  right: 25.19%;
+  bottom: 10.16%;
+  left: 21.37%;
+  overflow: hidden;
+  text-align: center;
+  color: var(--color-4-100);
+}
+.title4 {
+  position: absolute;
+  width: 53.17%;
+  top: calc(50% - 10px);
+  left: 23.6%;
+  line-height: 20px;
+  display: inline-block;
+}
+.buttonfull-widith1 {
+  position: absolute;
+  height: 5.66%;
+  width: 53.44%;
+  top: 55.47%;
+  right: 25.19%;
+  bottom: 38.87%;
+  left: 21.37%;
+  overflow: hidden;
+  text-align: center;
+  color: var(--color-4-100);
+}
+.forgot-password {
+  position: absolute;
+  top: 50.39%;
+  left: 21.37%;
+  line-height: 22px;
+}
+.welcome-back {
+  position: absolute;
+  top: calc(50% - 30px);
+  left: 0;
+  line-height: 30px;
+}
+.sign-in-to {
+  top: calc(50% + 10px);
+  left: 0;
+  font-size: var(--left-aligned-greydisplay-size);
+  line-height: 20px;
+  font-weight: 500;
+  color: var(--color-5-100);
+}
+.field,
+.sign-in-to,
+.title5 {
+  position: absolute;
+}
+.title5 {
+  height: 5.86%;
+  width: 24.58%;
+  top: 18.55%;
+  right: 54.05%;
+  bottom: 75.59%;
+  left: 21.37%;
+  overflow: hidden;
+  font-size: var(--left-aligned-darkh2-size);
+  color: var(--color-3-100);
+}
+.field {
+  width: 100%;
+  top: 30px;
+  right: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  border: 2px solid var(--color-5-100);
+  box-sizing: border-box;
+  height: 48px;
+  opacity: 0.2;
+  mix-blend-mode: normal;
+}
+.input-data {
+  top: calc(50% + 5px);
+  left: 15px;
+  line-height: 20px;
+  font-weight: 500;
+}
+.iconeye,
+.input-data,
+.label {
+  position: absolute;
+}
+.label {
+  top: calc(50% - 39px);
+  left: 0;
+  font-size: var(--left-aligned-greylabel-size);
+  letter-spacing: 1px;
+  line-height: 20px;
+  text-transform: uppercase;
+  color: var(--color-3-100);
+}
+.iconeye {
+  top: calc(50% + 6px);
+  right: 15px;
+  width: 18px;
+  height: 18px;
+}
+.componentsform,
+.field-2,
+.logo-icon {
+  position: absolute;
+  height: 7.62%;
+  width: 53.44%;
+  top: 40.82%;
+  right: 25.19%;
+  bottom: 51.56%;
+  left: 21.37%;
+}
+.componentsform,
+.logo-icon {
+  top: 30.27%;
+  bottom: 62.11%;
+}
+.logo-icon {
+  height: 4%;
+  width: 17.19%;
+  top: 9.77%;
+  right: 61.59%;
+  bottom: 86.23%;
+  left: 21.22%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.sidebar {
+  position: absolute;
+  height: 100%;
+  width: 45.49%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 54.51%;
+}
+.blank-line {
+  margin: 0;
+}
+.text {
+  position: absolute;
+  top: 48.54%;
+  left: 50%;
+  font-size: var(--left-aligned-greylabel-size);
+  font-family: var(--font-inter);
+  color: #000;
+  text-align: center;
+}
+.component-2 {
+  position: relative;
+  width: 100%;
+  height: 1024px;
+  text-align: left;
+  font-size: var(--left-aligned-greydisplay-size);
+  color: var(--color-5-100);
+  font-family: var(--left-aligned-greydisplay);
+}

@@ -1,0 +1,58 @@
+.background-color-icon7,
+.image-icon2 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.image-icon2 {
+  object-fit: cover;
+}
+.background-color-icon7 {
+  border-radius: var(--br-xs);
+}
+.title13 {
+  position: absolute;
+  width: 53.18%;
+  top: calc(50% - 10px);
+  left: 23.59%;
+  line-height: 20px;
+  display: inline-block;
+}
+.buttonfull-widith4 {
+  position: absolute;
+  top: calc(50% + 19px);
+  left: 305px;
+  width: 220px;
+  height: 58px;
+  overflow: hidden;
+}
+.hello1 {
+  position: absolute;
+  top: calc(50% - 77px);
+  left: 375px;
+  font-size: var(--left-aligned-lighth1-size);
+  line-height: 36px;
+}
+.remember-your-passwo {
+  position: absolute;
+  top: calc(50% - 31px);
+  left: 333.5px;
+  line-height: 20px;
+  font-weight: 500;
+}
+.left1 {
+  position: relative;
+  width: 100%;
+  height: 1024px;
+  text-align: center;
+  font-size: var(--left-aligned-greydisplay-size);
+  color: var(--color-4-100);
+  font-family: var(--left-aligned-greydisplay);
+}

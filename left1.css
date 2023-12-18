@@ -1,0 +1,65 @@
+.image-icon3 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.hello2 {
+  position: absolute;
+  top: calc(50% - 77px);
+  left: 375px;
+  font-size: var(--left-aligned-lighth1-size);
+  line-height: 36px;
+}
+.already-have-an {
+  position: absolute;
+  top: calc(50% - 31px);
+  left: 337.5px;
+  line-height: 20px;
+  font-weight: 500;
+}
+.background-color-icon12 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.title19 {
+  position: absolute;
+  width: 53.18%;
+  top: calc(50% - 10px);
+  left: 23.59%;
+  line-height: 20px;
+  display: inline-block;
+}
+.buttonfull-widith6 {
+  position: absolute;
+  top: calc(50% + 19px);
+  left: 305px;
+  width: 220px;
+  height: 58px;
+  overflow: hidden;
+}
+.left2 {
+  position: relative;
+  width: 100%;
+  height: 1024px;
+  text-align: center;
+  font-size: var(--left-aligned-greydisplay-size);
+  color: var(--color-4-100);
+  font-family: var(--left-aligned-greydisplay);
+}
